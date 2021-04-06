@@ -1,0 +1,30 @@
+E:\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.exe.config
+E:\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.exe
+E:\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.pdb
+E:\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csprojAssemblyReference.cache
+E:\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.Form1.resources
+E:\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.Properties.Resources.resources
+E:\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csproj.GenerateResource.cache
+E:\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csproj.CoreCompileInputs.cache
+E:\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.exe
+E:\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.pdb
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.exe.config
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.exe
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.pdb
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.Form1.resources
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.Properties.Resources.resources
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.exe
+C:\Users\Paweł\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.pdb
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.exe.config
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.exe
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\bin\Debug\lab1Obrazki.pdb
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csprojAssemblyReference.cache
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.Form1.resources
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.Properties.Resources.resources
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csproj.GenerateResource.cache
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.csproj.CoreCompileInputs.cache
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.exe
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\lab1Obrazki\lab1Obrazki\obj\Debug\lab1Obrazki.pdb
